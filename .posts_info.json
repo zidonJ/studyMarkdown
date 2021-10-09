@@ -1,7 +1,4 @@
 {
-  "links_paths" : {
-
-  },
   "documents_info" : {
     "Metal\/metal_start.md" : {
       "links" : [
@@ -15,11 +12,26 @@
       ]
     }
   },
+  "toc_hash_info" : {
+
+  },
+  "links_paths" : {
+
+  },
+  "relative_folders" : [
+    "Metal"
+  ],
+  "name_path_info" : {
+    "metal_start" : "Metal\/metal_start.md"
+  },
+  "filename_path_info" : {
+    "metal_start" : "Metal\/metal_start.md"
+  },
   "documents_meta_info" : {
     "Metal\/metal_start.md" : {
+      "raw_metadata_str" : "title: metal_start\ndate: 2021-10-09 15:10",
       "title" : "metal_start",
-      "date" : "2021-10-09 15:10",
-      "raw_metadata_str" : "title: metal_start\ndate: 2021-10-09 15:10"
+      "date" : "2021-10-09 15:10"
     },
     "Metal\/metal_begin.md" : {
       "date" : "2021-10-09 14:45",
@@ -27,48 +39,51 @@
       "title" : "metal_begin"
     }
   },
-  "relative_folders" : [
-    "Metal"
-  ],
-  "path_name_info" : {
-    "Metal\/metal_start.md" : "metal_start"
-  },
-  "files_mtime_info" : {
-    "Metal\/metal_begin.md" : 1633761977,
-    "Metal\/metal_start.md" : 1633778643
-  },
-  "toc_hash_info" : {
-
-  },
-  "filename_path_info" : {
-    "metal_start" : "Metal\/metal_start.md"
-  },
-  "todo_list" : {
-
-  },
-  "tags_tags" : {
-
-  },
-  "words_info" : {
-    "Metal\/metal_start.md" : 92
-  },
-  "links_backward_paths" : {
-
+  "toc_info" : {
+    "Metal\/metal_start.md" : [
+      "0,### 协议"
+    ]
   },
   "relative_paths" : [
     "Metal\/metal_start.md"
   ],
+  "todo_list" : {
+    "\"vertexShader\"];" : [
+      {
+        "text" : "- id<MTLFunction> vertexFunction = [defaultLibrary newFunctionWithName:@\"vertexShader\"];",
+        "type" : "todo",
+        "path" : "Metal\/metal_start.md",
+        "clean_text" : "id<MTLFunction> vertexFunction = [defaultLibrary newFunctionWithName:"
+      }
+    ],
+    "\"fragmentShader\"];" : [
+      {
+        "text" : "- id<MTLFunction> fragmentFunction = [defaultLibrary newFunctionWithName:@\"fragmentShader\"];",
+        "type" : "todo",
+        "clean_text" : "id<MTLFunction> fragmentFunction = [defaultLibrary newFunctionWithName:",
+        "path" : "Metal\/metal_start.md"
+      }
+    ]
+  },
+  "links_backward_paths" : {
+
+  },
+  "words_info" : {
+    "Metal\/metal_start.md" : 116
+  },
+  "files_mtime_info" : {
+    "Metal\/metal_begin.md" : 1633761977,
+    "Metal\/metal_start.md" : 1633778844
+  },
+  "tags_tags" : {
+
+  },
   "tags_paths" : {
     "Metal\/metal_start.md" : [
 
     ]
   },
-  "name_path_info" : {
-    "metal_start" : "Metal\/metal_start.md"
-  },
-  "toc_info" : {
-    "Metal\/metal_start.md" : [
-      "0,### 协议"
-    ]
+  "path_name_info" : {
+    "Metal\/metal_start.md" : "metal_start"
   }
 }
