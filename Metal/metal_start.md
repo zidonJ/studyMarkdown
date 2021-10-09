@@ -11,3 +11,8 @@ date: 2021-10-09 15:10
 > The command queue used to pass commands to the device.
 - vector_uint2 _viewportSize;
 > The current size of the view, used as an input to the vertex shader.
+
+// Load all the shader files with a .metal file extension in the project.
+id<MTLLibrary> defaultLibrary = [_device newDefaultLibrary];
+id<MTLFunction> vertexFunction = [defaultLibrary newFunctionWithName:@"vertexShader"];
+id<MTLFunction> fragmentFunction = [defaultLibrary newFunctionWithName:@"fragmentShader"];

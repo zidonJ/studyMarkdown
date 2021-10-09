@@ -1,58 +1,44 @@
 {
-  "todo_list" : {
-
-  },
-  "links_backward_paths" : {
-
-  },
-  "relative_paths" : [
-    "Metal\/metal_start.md"
+  "relative_folders" : [
+    "Metal"
   ],
+  "toc_info" : {
+    "Metal\/metal_start.md" : [
+      "0,### 协议"
+    ]
+  },
   "files_mtime_info" : {
-    "Metal\/metal_start.md" : 1633771251,
+    "Metal\/metal_start.md" : 1633771701,
     "Metal\/metal_begin.md" : 1633761977
-  },
-  "name_path_info" : {
-    "metal_start" : "Metal\/metal_start.md"
-  },
-  "tags_tags" : {
-
-  },
-  "documents_info" : {
-    "Metal\/metal_start.md" : {
-      "attachments" : [
-
-      ],
-      "links" : [
-
-      ],
-      "images" : [
-
-      ]
-    }
-  },
-  "path_name_info" : {
-    "Metal\/metal_start.md" : "metal_start"
   },
   "tags_paths" : {
     "Metal\/metal_start.md" : [
 
     ]
   },
+  "path_name_info" : {
+    "Metal\/metal_start.md" : "metal_start"
+  },
+  "todo_list" : {
+
+  },
   "toc_hash_info" : {
 
   },
-  "relative_folders" : [
-    "Metal"
-  ],
-  "links_paths" : {
+  "words_info" : {
+    "Metal\/metal_start.md" : 55
+  },
+  "tags_tags" : {
+
+  },
+  "links_backward_paths" : {
 
   },
   "documents_meta_info" : {
     "Metal\/metal_start.md" : {
-      "date" : "2021-10-09 15:10",
       "raw_metadata_str" : "title: metal_start\ndate: 2021-10-09 15:10",
-      "title" : "metal_start"
+      "title" : "metal_start",
+      "date" : "2021-10-09 15:10"
     },
     "Metal\/metal_begin.md" : {
       "title" : "metal_begin",
@@ -60,15 +46,29 @@
       "date" : "2021-10-09 14:45"
     }
   },
-  "words_info" : {
-    "Metal\/metal_start.md" : 55
+  "documents_info" : {
+    "Metal\/metal_start.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    }
+  },
+  "links_paths" : {
+
+  },
+  "name_path_info" : {
+    "metal_start" : "Metal\/metal_start.md"
   },
   "filename_path_info" : {
     "metal_start" : "Metal\/metal_start.md"
   },
-  "toc_info" : {
-    "Metal\/metal_start.md" : [
-      "0,### 协议"
-    ]
-  }
+  "relative_paths" : [
+    "Metal\/metal_start.md"
+  ]
 }
