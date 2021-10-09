@@ -13,6 +13,8 @@ date: 2021-10-09 15:10
 > The current size of the view, used as an input to the vertex shader.
 
 id<MTLLibrary> defaultLibrary = [_device newDefaultLibrary];
-
+>  Load all the shader files with a .metal file extension in the project.
 id<MTLFunction> vertexFunction = [defaultLibrary newFunctionWithName:@"vertexShader"];
+>  顶点着色
 id<MTLFunction> fragmentFunction = [defaultLibrary newFunctionWithName:@"fragmentShader"];
+>  片段着色

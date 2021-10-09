@@ -1,18 +1,25 @@
 {
-  "tags_tags" : {
-
-  },
   "links_paths" : {
 
   },
-  "filename_path_info" : {
-    "metal_start" : "Metal\/metal_start.md"
+  "documents_info" : {
+    "Metal\/metal_start.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    }
   },
   "documents_meta_info" : {
     "Metal\/metal_start.md" : {
       "title" : "metal_start",
-      "raw_metadata_str" : "title: metal_start\ndate: 2021-10-09 15:10",
-      "date" : "2021-10-09 15:10"
+      "date" : "2021-10-09 15:10",
+      "raw_metadata_str" : "title: metal_start\ndate: 2021-10-09 15:10"
     },
     "Metal\/metal_begin.md" : {
       "date" : "2021-10-09 14:45",
@@ -20,55 +27,48 @@
       "title" : "metal_begin"
     }
   },
+  "relative_folders" : [
+    "Metal"
+  ],
+  "path_name_info" : {
+    "Metal\/metal_start.md" : "metal_start"
+  },
   "files_mtime_info" : {
     "Metal\/metal_begin.md" : 1633761977,
-    "Metal\/metal_start.md" : 1633773575
+    "Metal\/metal_start.md" : 1633778643
   },
   "toc_hash_info" : {
 
   },
-  "links_backward_paths" : {
-
-  },
-  "words_info" : {
-    "Metal\/metal_start.md" : 72
-  },
-  "toc_info" : {
-    "Metal\/metal_start.md" : [
-      "0,### 协议"
-    ]
+  "filename_path_info" : {
+    "metal_start" : "Metal\/metal_start.md"
   },
   "todo_list" : {
 
   },
+  "tags_tags" : {
+
+  },
+  "words_info" : {
+    "Metal\/metal_start.md" : 92
+  },
+  "links_backward_paths" : {
+
+  },
+  "relative_paths" : [
+    "Metal\/metal_start.md"
+  ],
   "tags_paths" : {
     "Metal\/metal_start.md" : [
 
     ]
   },
-  "path_name_info" : {
-    "Metal\/metal_start.md" : "metal_start"
-  },
   "name_path_info" : {
     "metal_start" : "Metal\/metal_start.md"
   },
-  "relative_paths" : [
-    "Metal\/metal_start.md"
-  ],
-  "relative_folders" : [
-    "Metal"
-  ],
-  "documents_info" : {
-    "Metal\/metal_start.md" : {
-      "images" : [
-
-      ],
-      "attachments" : [
-
-      ],
-      "links" : [
-
-      ]
-    }
+  "toc_info" : {
+    "Metal\/metal_start.md" : [
+      "0,### 协议"
+    ]
   }
 }
