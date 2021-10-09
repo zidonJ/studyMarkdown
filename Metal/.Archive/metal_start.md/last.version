@@ -8,6 +8,6 @@ date: 2021-10-09 15:10
 - id<MTLRenderPipelineState> _pipelineState;
 >  The render pipeline generated from the vertex and fragment shaders in the .metal shader file.
 - id<MTLCommandQueue> _commandQueue;
-> The command queue used to pass commands to the device.
+
+// The current size of the view, used as an input to the vertex shader.
 - vector_uint2 _viewportSize;
-> The current size of the view, used as an input to the vertex shader.

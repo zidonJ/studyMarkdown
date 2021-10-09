@@ -1,96 +1,74 @@
 {
-  "toc_info" : {
-    "Metal\/metal_begin.md" : [
-
-    ],
-    "Metal\/metal_start.md" : [
-
-    ]
-  },
-  "name_path_info" : {
-    "metal_start" : "Metal\/metal_start.md",
-    "metal_begin" : "Metal\/metal_begin.md"
-  },
   "todo_list" : {
 
-  },
-  "files_mtime_info" : {
-    "Metal\/metal_start.md" : 1633763414,
-    "Metal\/metal_begin.md" : 1633761977
-  },
-  "words_info" : {
-    "Metal\/metal_start.md" : 3,
-    "Metal\/metal_begin.md" : 12
   },
   "links_backward_paths" : {
 
   },
   "relative_paths" : [
-    "Metal\/metal_begin.md",
     "Metal\/metal_start.md"
   ],
-  "tags_paths" : {
-    "Metal\/metal_begin.md" : [
+  "files_mtime_info" : {
+    "Metal\/metal_start.md" : 1633771251,
+    "Metal\/metal_begin.md" : 1633761977
+  },
+  "name_path_info" : {
+    "metal_start" : "Metal\/metal_start.md"
+  },
+  "tags_tags" : {
 
-    ],
+  },
+  "documents_info" : {
+    "Metal\/metal_start.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    }
+  },
+  "path_name_info" : {
+    "Metal\/metal_start.md" : "metal_start"
+  },
+  "tags_paths" : {
     "Metal\/metal_start.md" : [
 
     ]
   },
-  "documents_info" : {
-    "Metal\/metal_begin.md" : {
-      "images" : [
-
-      ],
-      "attachments" : [
-
-      ],
-      "links" : [
-
-      ]
-    },
-    "Metal\/metal_start.md" : {
-      "attachments" : [
-
-      ],
-      "images" : [
-
-      ],
-      "links" : [
-
-      ]
-    }
-  },
-  "links_paths" : {
-
-  },
-  "filename_path_info" : {
-    "metal_start" : "Metal\/metal_start.md",
-    "metal_begin" : "Metal\/metal_begin.md"
-  },
-  "path_name_info" : {
-    "Metal\/metal_begin.md" : "metal_begin",
-    "Metal\/metal_start.md" : "metal_start"
-  },
   "toc_hash_info" : {
 
-  },
-  "documents_meta_info" : {
-    "Metal\/metal_start.md" : {
-      "raw_metadata_str" : "title: metal_start\ndate: 2021-10-09 15:10",
-      "title" : "metal_start",
-      "date" : "2021-10-09 15:10"
-    },
-    "Metal\/metal_begin.md" : {
-      "title" : "metal_begin",
-      "date" : "2021-10-09 14:45",
-      "raw_metadata_str" : "title: metal_begin\ndate: 2021-10-09 14:45"
-    }
   },
   "relative_folders" : [
     "Metal"
   ],
-  "tags_tags" : {
+  "links_paths" : {
 
+  },
+  "documents_meta_info" : {
+    "Metal\/metal_start.md" : {
+      "date" : "2021-10-09 15:10",
+      "raw_metadata_str" : "title: metal_start\ndate: 2021-10-09 15:10",
+      "title" : "metal_start"
+    },
+    "Metal\/metal_begin.md" : {
+      "title" : "metal_begin",
+      "raw_metadata_str" : "title: metal_begin\ndate: 2021-10-09 14:45",
+      "date" : "2021-10-09 14:45"
+    }
+  },
+  "words_info" : {
+    "Metal\/metal_start.md" : 55
+  },
+  "filename_path_info" : {
+    "metal_start" : "Metal\/metal_start.md"
+  },
+  "toc_info" : {
+    "Metal\/metal_start.md" : [
+      "0,### 协议"
+    ]
   }
 }
