@@ -1,67 +1,43 @@
 {
-  "words_info" : {
-    "Metal\/metal_start.md" : 92
-  },
-  "todo_list" : {
-    "\"vertexShader\"];" : [
-      {
-        "path" : "Metal\/metal_start.md",
-        "clean_text" : "id<MTLFunction> vertexFunction = [defaultLibrary newFunctionWithName:",
-        "text" : "- id<MTLFunction> vertexFunction = [defaultLibrary newFunctionWithName:@\"vertexShader\"];",
-        "type" : "todo"
-      }
-    ],
-    "\"fragmentShader\"];" : [
-      {
-        "clean_text" : "id<MTLFunction> fragmentFunction = [defaultLibrary newFunctionWithName:",
-        "text" : "- id<MTLFunction> fragmentFunction = [defaultLibrary newFunctionWithName:@\"fragmentShader\"];",
-        "path" : "Metal\/metal_start.md",
-        "type" : "todo"
-      }
-    ]
-  },
-  "relative_folders" : [
-    "Metal"
-  ],
   "path_name_info" : {
     "Metal\/metal_start.md" : "metal_start"
+  },
+  "tags_tags" : {
+
+  },
+  "files_mtime_info" : {
+    "Metal\/metal_start.md" : 1633773575,
+    "Metal\/metal_begin.md" : 1633761977
+  },
+  "name_path_info" : {
+    "metal_start" : "Metal\/metal_start.md"
+  },
+  "toc_hash_info" : {
+
+  },
+  "documents_info" : {
+    "Metal\/metal_start.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    }
+  },
+  "links_paths" : {
+
   },
   "toc_info" : {
     "Metal\/metal_start.md" : [
       "0,### 协议"
     ]
   },
-  "links_paths" : {
-
-  },
-  "name_path_info" : {
+  "filename_path_info" : {
     "metal_start" : "Metal\/metal_start.md"
-  },
-  "files_mtime_info" : {
-    "Metal\/metal_start.md" : 1633772331,
-    "Metal\/metal_begin.md" : 1633761977
-  },
-  "tags_tags" : {
-
-  },
-  "toc_hash_info" : {
-
-  },
-  "links_backward_paths" : {
-
-  },
-  "documents_info" : {
-    "Metal\/metal_start.md" : {
-      "links" : [
-
-      ],
-      "images" : [
-
-      ],
-      "attachments" : [
-
-      ]
-    }
   },
   "documents_meta_info" : {
     "Metal\/metal_start.md" : {
@@ -75,15 +51,24 @@
       "date" : "2021-10-09 14:45"
     }
   },
+  "todo_list" : {
+
+  },
+  "relative_paths" : [
+    "Metal\/metal_start.md"
+  ],
+  "links_backward_paths" : {
+
+  },
+  "words_info" : {
+    "Metal\/metal_start.md" : 72
+  },
+  "relative_folders" : [
+    "Metal"
+  ],
   "tags_paths" : {
     "Metal\/metal_start.md" : [
 
     ]
-  },
-  "filename_path_info" : {
-    "metal_start" : "Metal\/metal_start.md"
-  },
-  "relative_paths" : [
-    "Metal\/metal_start.md"
-  ]
+  }
 }
