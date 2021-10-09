@@ -1,50 +1,54 @@
 {
+  "words_info" : {
+    "Metal\/metal_start.md" : 92
+  },
+  "todo_list" : {
+    "\"vertexShader\"];" : [
+      {
+        "path" : "Metal\/metal_start.md",
+        "clean_text" : "id<MTLFunction> vertexFunction = [defaultLibrary newFunctionWithName:",
+        "text" : "- id<MTLFunction> vertexFunction = [defaultLibrary newFunctionWithName:@\"vertexShader\"];",
+        "type" : "todo"
+      }
+    ],
+    "\"fragmentShader\"];" : [
+      {
+        "clean_text" : "id<MTLFunction> fragmentFunction = [defaultLibrary newFunctionWithName:",
+        "text" : "- id<MTLFunction> fragmentFunction = [defaultLibrary newFunctionWithName:@\"fragmentShader\"];",
+        "path" : "Metal\/metal_start.md",
+        "type" : "todo"
+      }
+    ]
+  },
   "relative_folders" : [
     "Metal"
   ],
+  "path_name_info" : {
+    "Metal\/metal_start.md" : "metal_start"
+  },
   "toc_info" : {
     "Metal\/metal_start.md" : [
       "0,### 协议"
     ]
   },
+  "links_paths" : {
+
+  },
+  "name_path_info" : {
+    "metal_start" : "Metal\/metal_start.md"
+  },
   "files_mtime_info" : {
-    "Metal\/metal_start.md" : 1633771701,
+    "Metal\/metal_start.md" : 1633772331,
     "Metal\/metal_begin.md" : 1633761977
   },
-  "tags_paths" : {
-    "Metal\/metal_start.md" : [
-
-    ]
-  },
-  "path_name_info" : {
-    "Metal\/metal_start.md" : "metal_start"
-  },
-  "todo_list" : {
+  "tags_tags" : {
 
   },
   "toc_hash_info" : {
 
   },
-  "words_info" : {
-    "Metal\/metal_start.md" : 55
-  },
-  "tags_tags" : {
-
-  },
   "links_backward_paths" : {
 
-  },
-  "documents_meta_info" : {
-    "Metal\/metal_start.md" : {
-      "raw_metadata_str" : "title: metal_start\ndate: 2021-10-09 15:10",
-      "title" : "metal_start",
-      "date" : "2021-10-09 15:10"
-    },
-    "Metal\/metal_begin.md" : {
-      "title" : "metal_begin",
-      "raw_metadata_str" : "title: metal_begin\ndate: 2021-10-09 14:45",
-      "date" : "2021-10-09 14:45"
-    }
   },
   "documents_info" : {
     "Metal\/metal_start.md" : {
@@ -59,11 +63,22 @@
       ]
     }
   },
-  "links_paths" : {
-
+  "documents_meta_info" : {
+    "Metal\/metal_start.md" : {
+      "date" : "2021-10-09 15:10",
+      "raw_metadata_str" : "title: metal_start\ndate: 2021-10-09 15:10",
+      "title" : "metal_start"
+    },
+    "Metal\/metal_begin.md" : {
+      "title" : "metal_begin",
+      "raw_metadata_str" : "title: metal_begin\ndate: 2021-10-09 14:45",
+      "date" : "2021-10-09 14:45"
+    }
   },
-  "name_path_info" : {
-    "metal_start" : "Metal\/metal_start.md"
+  "tags_paths" : {
+    "Metal\/metal_start.md" : [
+
+    ]
   },
   "filename_path_info" : {
     "metal_start" : "Metal\/metal_start.md"
